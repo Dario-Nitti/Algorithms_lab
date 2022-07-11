@@ -46,10 +46,6 @@ public class Biblioteca {
         return set2;
     }
 
-    public int getNumeroCopie() {
-        int copietot = magazzino.size();
-        return copietot;
-    }
 
     @Override
     public String toString() {
